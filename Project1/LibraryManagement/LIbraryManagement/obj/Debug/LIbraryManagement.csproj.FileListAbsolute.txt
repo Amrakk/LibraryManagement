@@ -1,0 +1,26 @@
+C:\Users\hoang\OneDrive\Máy tính\521H0350_NguyenHoangDuy\Project1\LIbraryManagement\LIbraryManagement\bin\Debug\LIbraryManagement.exe.config
+C:\Users\hoang\OneDrive\Máy tính\521H0350_NguyenHoangDuy\Project1\LIbraryManagement\LIbraryManagement\bin\Debug\LIbraryManagement.exe
+C:\Users\hoang\OneDrive\Máy tính\521H0350_NguyenHoangDuy\Project1\LIbraryManagement\LIbraryManagement\bin\Debug\LIbraryManagement.pdb
+C:\Users\hoang\OneDrive\Máy tính\521H0350_NguyenHoangDuy\Project1\LIbraryManagement\LIbraryManagement\bin\Debug\System.Data.SqlClient.dll
+C:\Users\hoang\OneDrive\Máy tính\521H0350_NguyenHoangDuy\Project1\LIbraryManagement\LIbraryManagement\bin\Debug\System.Data.SqlClient.xml
+C:\Users\hoang\OneDrive\Máy tính\521H0350_NguyenHoangDuy\Project1\LIbraryManagement\LIbraryManagement\obj\Debug\LIbraryManagement.csproj.AssemblyReference.cache
+C:\Users\hoang\OneDrive\Máy tính\521H0350_NguyenHoangDuy\Project1\LIbraryManagement\LIbraryManagement\obj\Debug\LIbraryManagement.Properties.Resources.resources
+C:\Users\hoang\OneDrive\Máy tính\521H0350_NguyenHoangDuy\Project1\LIbraryManagement\LIbraryManagement\obj\Debug\LIbraryManagement.csproj.GenerateResource.cache
+C:\Users\hoang\OneDrive\Máy tính\521H0350_NguyenHoangDuy\Project1\LIbraryManagement\LIbraryManagement\obj\Debug\LIbraryManagement.csproj.CoreCompileInputs.cache
+C:\Users\hoang\OneDrive\Máy tính\521H0350_NguyenHoangDuy\Project1\LIbraryManagement\LIbraryManagement\obj\Debug\LIbraryManagement.csproj.CopyComplete
+C:\Users\hoang\OneDrive\Máy tính\521H0350_NguyenHoangDuy\Project1\LIbraryManagement\LIbraryManagement\obj\Debug\LIbraryManagement.exe
+C:\Users\hoang\OneDrive\Máy tính\521H0350_NguyenHoangDuy\Project1\LIbraryManagement\LIbraryManagement\obj\Debug\LIbraryManagement.pdb
+C:\Users\hoang\OneDrive\Máy tính\521H0350_NguyenHoangDuy\Project1\LIbraryManagement\LIbraryManagement\obj\Debug\LIbraryManagement.ReaderForm.resources
+C:\Users\hoang\Downloads\521H0350_NguyenHoangDuy\Project1\LibraryManagement\LIbraryManagement\bin\Debug\LIbraryManagement.exe.config
+C:\Users\hoang\Downloads\521H0350_NguyenHoangDuy\Project1\LibraryManagement\LIbraryManagement\bin\Debug\LIbraryManagement.exe
+C:\Users\hoang\Downloads\521H0350_NguyenHoangDuy\Project1\LibraryManagement\LIbraryManagement\bin\Debug\LIbraryManagement.pdb
+C:\Users\hoang\Downloads\521H0350_NguyenHoangDuy\Project1\LibraryManagement\LIbraryManagement\bin\Debug\System.Data.SqlClient.dll
+C:\Users\hoang\Downloads\521H0350_NguyenHoangDuy\Project1\LibraryManagement\LIbraryManagement\bin\Debug\System.Data.SqlClient.xml
+C:\Users\hoang\Downloads\521H0350_NguyenHoangDuy\Project1\LibraryManagement\LIbraryManagement\obj\Debug\LibraryManagement.csproj.AssemblyReference.cache
+C:\Users\hoang\Downloads\521H0350_NguyenHoangDuy\Project1\LibraryManagement\LIbraryManagement\obj\Debug\LIbraryManagement.ReaderForm.resources
+C:\Users\hoang\Downloads\521H0350_NguyenHoangDuy\Project1\LibraryManagement\LIbraryManagement\obj\Debug\LIbraryManagement.Properties.Resources.resources
+C:\Users\hoang\Downloads\521H0350_NguyenHoangDuy\Project1\LibraryManagement\LIbraryManagement\obj\Debug\LibraryManagement.csproj.GenerateResource.cache
+C:\Users\hoang\Downloads\521H0350_NguyenHoangDuy\Project1\LibraryManagement\LIbraryManagement\obj\Debug\LibraryManagement.csproj.CoreCompileInputs.cache
+C:\Users\hoang\Downloads\521H0350_NguyenHoangDuy\Project1\LibraryManagement\LIbraryManagement\obj\Debug\LibraryManagement.csproj.CopyComplete
+C:\Users\hoang\Downloads\521H0350_NguyenHoangDuy\Project1\LibraryManagement\LIbraryManagement\obj\Debug\LIbraryManagement.exe
+C:\Users\hoang\Downloads\521H0350_NguyenHoangDuy\Project1\LibraryManagement\LIbraryManagement\obj\Debug\LIbraryManagement.pdb
